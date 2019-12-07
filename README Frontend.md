@@ -39,7 +39,7 @@ If you are so inclined, you can deploy the application onto a remote server (e.g
 
 ## FAQ
 ### What frameworks/libraries can I use?
-> **React or React Native**, We judge your submission on engineering practices (over-engineering will be penalized).
+> **React Native**, We judge your submission on engineering practices (over-engineering will be penalized).
 ### How much time should I spend on completing this challenge?
 > You can work on your own schedule, but a complete solution is expected within seven days.
 ### Do I need to deploy somewhere?

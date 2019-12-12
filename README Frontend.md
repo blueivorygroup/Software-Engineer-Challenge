@@ -23,8 +23,7 @@ Please note that we are not necessarily expecting you to build all requirements.
 1. Instructions on starting your application
 2. Use git
 3. Test cases (at least unit tests for major functions)
-4. Browser compatibility: Latest 2 versions Chrome, Firefox and Safari / iOS and Android
-5. Instructions on creating a production build
+4. Instructions on creating a production build
 
 
 ## Submission
